@@ -1,5 +1,7 @@
 Overview
 ========
+这些东西改动次数极少，Github 上写的说明是  Helper scripts to compile mpv on Linux
+好像和 macOS 没啥关系，不理了
 
 This is a collection of scripts to make downloading and building mpv, ffmpeg
 and libass easier. ffmpeg and libass get special treatment, because they are
